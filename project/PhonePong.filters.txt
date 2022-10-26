@@ -1,0 +1,137 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="main.cpp" />
+    <ClCompile Include="Application.cpp">
+      <Filter>App</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Game</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>States\MainMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseState.cpp">
+      <Filter>States\Pause</Filter>
+    </ClCompile>
+    <ClCompile Include="StageSinil.cpp">
+      <Filter>States\Stage_Sinil</Filter>
+    </ClCompile>
+    <ClCompile Include="yoonsooLV1.cpp">
+      <Filter>States\Stage_Yoonsoo</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGenerator.cpp">
+      <Filter>MapGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="MyObject.cpp">
+      <Filter>MapGenerator</Filter>
+    </ClCompile>
+    <ClCompile Include="PRNG.cpp" />
+    <ClCompile Include="Gameover.cpp">
+      <Filter>States\Game_over</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp" />
+    <ClCompile Include="ScoreMenu.cpp">
+      <Filter>States\ScoreMenu</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreObject.cpp" />
+    <ClCompile Include="LevelFever.cpp">
+      <Filter>States\Stage_Fever</Filter>
+    </ClCompile>
+    <ClCompile Include="Input.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Credit.cpp" />
+    <ClCompile Include="Menu_HowtoPlay.cpp" />
+    <ClCompile Include="Menu_Ranking.cpp" />
+    <ClCompile Include="Splash.cpp" />
+    <ClCompile Include="List.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Application.h">
+      <Filter>App</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Game</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonLevel.h">
+      <Filter>States</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>States\MainMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseState.h">
+      <Filter>States\Pause</Filter>
+    </ClInclude>
+    <ClInclude Include="StageSinil.h">
+      <Filter>States\Stage_Sinil</Filter>
+    </ClInclude>
+    <ClInclude Include="yoonsooLV1.h">
+      <Filter>States\Stage_Yoonsoo</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGenerator.h">
+      <Filter>MapGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="MyObject.h">
+      <Filter>MapGenerator</Filter>
+    </ClInclude>
+    <ClInclude Include="PRNG.h" />
+    <ClInclude Include="Gameover.h">
+      <Filter>States\Game_over</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h" />
+    <ClInclude Include="ScoreMenu.h">
+      <Filter>States\ScoreMenu</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreObject.h" />
+    <ClInclude Include="LevelFever.h">
+      <Filter>States\Stage_Fever</Filter>
+    </ClInclude>
+    <ClInclude Include="Input.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Credit.h" />
+    <ClInclude Include="Menu_HowtoPlay.h" />
+    <ClInclude Include="Menu_Ranking.h" />
+    <ClInclude Include="Splash.h" />
+    <ClInclude Include="List.h" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Game">
+      <UniqueIdentifier>{a4c61a45-6f83-4081-bec3-091c42be4108}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="App">
+      <UniqueIdentifier>{d3751412-3ba4-4576-8c36-adfa7ed352d4}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States">
+      <UniqueIdentifier>{42c6271b-7032-405d-a083-7e1855c12c63}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\MainMenu">
+      <UniqueIdentifier>{1fee0eee-5a70-4de5-a63f-1c226a69796d}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Pause">
+      <UniqueIdentifier>{7e8d7d18-2caf-4dce-9009-49d3b89e2115}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Stage_Sinil">
+      <UniqueIdentifier>{b487a21f-d987-4ca4-a20e-8ac64b73842b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Stage_Yoonsoo">
+      <UniqueIdentifier>{09c21fa4-3c16-4d0e-9d56-98a3578b5fe1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapGenerator">
+      <UniqueIdentifier>{3ffc42e8-f980-4ca2-ab41-a0228d655936}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Game_over">
+      <UniqueIdentifier>{c8a73e60-94a0-478b-920e-b2ba6c846e48}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\ScoreMenu">
+      <UniqueIdentifier>{c0b58a8f-7f62-4bff-93d7-ca4e252a9bff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="States\Stage_Fever">
+      <UniqueIdentifier>{7a132d91-535a-4f11-929c-e8f2f84ad869}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Input">
+      <UniqueIdentifier>{e6d199dc-e174-4182-abd9-e89fbf1e3d73}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

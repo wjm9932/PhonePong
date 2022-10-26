@@ -1,0 +1,159 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="Input.cpp">
+      <Filter>Input</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Credit.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_HowtoPlay.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Menu_Ranking.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="MapGenerator.cpp">
+      <Filter>MapManerator</Filter>
+    </ClCompile>
+    <ClCompile Include="MainMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="LevelFever.cpp">
+      <Filter>LevelFever</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreMenu.cpp">
+      <Filter>Menu</Filter>
+    </ClCompile>
+    <ClCompile Include="Gameover.cpp">
+      <Filter>GameOver</Filter>
+    </ClCompile>
+    <ClCompile Include="ScoreObject.cpp">
+      <Filter>ScoreObject</Filter>
+    </ClCompile>
+    <ClCompile Include="MyObject.cpp">
+      <Filter>MyObject</Filter>
+    </ClCompile>
+    <ClCompile Include="Application.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="Component.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="Game.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="List.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="main.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="PauseState.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="PRNG.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="Splash.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="StageSinil.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+    <ClCompile Include="yoonsooLV1.cpp">
+      <Filter>Utilis</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Input.h">
+      <Filter>Input</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Credit.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_HowtoPlay.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Menu_Ranking.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="MapGenerator.h">
+      <Filter>MapManerator</Filter>
+    </ClInclude>
+    <ClInclude Include="MainMenu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="LevelFever.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreMenu.h">
+      <Filter>Menu</Filter>
+    </ClInclude>
+    <ClInclude Include="Gameover.h">
+      <Filter>GameOver</Filter>
+    </ClInclude>
+    <ClInclude Include="ScoreObject.h">
+      <Filter>ScoreObject</Filter>
+    </ClInclude>
+    <ClInclude Include="MyObject.h">
+      <Filter>MyObject</Filter>
+    </ClInclude>
+    <ClInclude Include="Application.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="CommonLevel.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="Component.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="Game.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="List.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="PauseState.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="PRNG.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="Splash.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="StageSinil.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+    <ClInclude Include="yoonsooLV1.h">
+      <Filter>Utilis</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Input">
+      <UniqueIdentifier>{fefd1b1f-e03f-4d1e-97d2-931176d2baff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Menu">
+      <UniqueIdentifier>{ce47ff0e-ae63-43c5-9293-9377ef915098}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MapManerator">
+      <UniqueIdentifier>{298c1ea5-3137-45ee-a556-4bda379e7106}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="LevelFever">
+      <UniqueIdentifier>{31ff79b0-eec7-4859-989d-32dfda8fe8ba}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="GameOver">
+      <UniqueIdentifier>{45b6d0aa-b376-4cb6-b207-d70f99af365c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="ScoreObject">
+      <UniqueIdentifier>{18cb7f03-39bc-4afa-9ef8-1e2c7e554b6c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="MyObject">
+      <UniqueIdentifier>{6a6c79bb-52bf-43e5-a583-aa42de6acd17}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Utilis">
+      <UniqueIdentifier>{ac026d03-b6da-46e4-b2f9-4d297906ee23}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
